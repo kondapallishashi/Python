@@ -6,3 +6,4 @@
 import sys
 print("The number of arguments entered by user: ", len(sys.argv)," arguments")
 print("Argument list: ", str(sys.argv))
+
