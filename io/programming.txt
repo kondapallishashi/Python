@@ -1,0 +1,3 @@
+bThis is the new text being written using write method.!!This is additional lines 1 
+More additional lines
+Even more additional lines
